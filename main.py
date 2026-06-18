@@ -8,8 +8,8 @@ a quick check that your Azure OpenAI credentials work. Your job is to write the 
 the code that reads the board and works out the four groups by calling
 ``puzzle.guess(...)``. See the README for the task.
 """
-from src.connections import load_puzzle
-from src.connections.llm import hello_world
+from connections import load_puzzle
+from connections.llm import complete
 
 # Load the first easy puzzle. The answer key lives in `puzzle.groups`, but a
 # solver shouldn't read it — solve using `puzzle.board` + `puzzle.guess(...)`.
@@ -49,7 +49,7 @@ print(f"remaining words: {len(puzzle.remaining_words)}  ·  solved: {len(puzzle.
 
 print("\n--- LLM hello world ---")
 try:
-    print(hello_world())
+    print(complete("In one short sentence, say hello and confirm you're ready to solve puzzles."))
 except Exception as e:  # noqa: BLE001 — surface any setup issue plainly
     print(f"(LLM call skipped: {type(e).__name__}: {e})")
     print("Set the Azure OpenAI values in .env to enable the model — see .env.example.")
