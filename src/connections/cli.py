@@ -3,7 +3,7 @@ Play Connections in your terminal (the `connections` command).
 
 You're shown the 16 jumbled words as a 4x4 grid and enter four words per guess. A
 correct guess snaps those words up into the next solved row, coloured with that
-group's colour (blue / purple / green / red).
+group's colour (yellow / green / blue / purple).
 
     uv run connections                          # first easy puzzle
     uv run connections --tier hard              # a harder tier
@@ -37,7 +37,7 @@ PALETTE = {
     Level.BLUE: "blue",
     Level.PURPLE: "purple",
     Level.GREEN: "green",
-    Level.YELLOW: "red",
+    Level.YELLOW: "yellow",
 }
 
 QUIT_WORDS = {"q", "quit", "exit"}
