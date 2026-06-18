@@ -1,0 +1,134 @@
+[
+  {
+    "id": "easy-1",
+    "difficulty": "easy",
+    "title": "Warm-up",
+    "max_mistakes": 4,
+    "board": [
+      "PEPPERONI",
+      "CHEESE",
+      "PUG",
+      "BEAGLE",
+      "TUESDAY",
+      "MONDAY",
+      "POODLE",
+      "SATURN",
+      "MUSHROOM",
+      "MARS",
+      "CORGI",
+      "OLIVE",
+      "FRIDAY",
+      "VENUS",
+      "NEPTUNE",
+      "SUNDAY"
+    ],
+    "groups": [
+      {
+        "category": "Dog breeds",
+        "level": "yellow",
+        "members": [
+          "POODLE",
+          "BEAGLE",
+          "PUG",
+          "CORGI"
+        ]
+      },
+      {
+        "category": "Planets",
+        "level": "green",
+        "members": [
+          "MARS",
+          "VENUS",
+          "SATURN",
+          "NEPTUNE"
+        ]
+      },
+      {
+        "category": "Pizza toppings",
+        "level": "blue",
+        "members": [
+          "CHEESE",
+          "MUSHROOM",
+          "PEPPERONI",
+          "OLIVE"
+        ]
+      },
+      {
+        "category": "Days of the week",
+        "level": "purple",
+        "members": [
+          "MONDAY",
+          "FRIDAY",
+          "SUNDAY",
+          "TUESDAY"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "easy-2",
+    "difficulty": "easy",
+    "title": "Around the house",
+    "max_mistakes": 4,
+    "board": [
+      "SCARLET",
+      "WHISK",
+      "GRATER",
+      "CHERRY",
+      "ATLANTIC",
+      "PACIFIC",
+      "TURQUOISE",
+      "INDIAN",
+      "PINK",
+      "SPATULA",
+      "BEIGE",
+      "MANGO",
+      "APPLE",
+      "LEMON",
+      "ARCTIC",
+      "LADLE"
+    ],
+    "groups": [
+      {
+        "category": "Fruits",
+        "level": "yellow",
+        "members": [
+          "APPLE",
+          "MANGO",
+          "CHERRY",
+          "LEMON"
+        ]
+      },
+      {
+        "category": "Colours",
+        "level": "green",
+        "members": [
+          "SCARLET",
+          "PINK",
+          "TURQUOISE",
+          "BEIGE"
+        ]
+      },
+      {
+        "category": "Kitchen utensils",
+        "level": "blue",
+        "members": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "GRATER"
+        ]
+      },
+      {
+        "category": "Oceans",
+        "level": "purple",
+        "members": [
+          "PACIFIC",
+          "ATLANTIC",
+          "INDIAN",
+          "ARCTIC"
+        ]
+      }
+    ]
+  }
+]

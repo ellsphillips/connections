@@ -1,0 +1,134 @@
+[
+  {
+    "id": "hard-1",
+    "difficulty": "hard",
+    "title": "Punch-drunk",
+    "max_mistakes": 4,
+    "board": [
+      "WALTZ",
+      "BAIT",
+      "HEATED",
+      "SORE",
+      "UPPERCUT",
+      "REEL",
+      "CROSS",
+      "SWING",
+      "JIG",
+      "MAD",
+      "TAP",
+      "HOOK",
+      "STEAMED",
+      "ROD",
+      "LINE",
+      "JAB"
+    ],
+    "groups": [
+      {
+        "category": "Boxing punches",
+        "level": "yellow",
+        "members": [
+          "JAB",
+          "HOOK",
+          "CROSS",
+          "UPPERCUT"
+        ]
+      },
+      {
+        "category": "Angry",
+        "level": "green",
+        "members": [
+          "MAD",
+          "SORE",
+          "HEATED",
+          "STEAMED"
+        ]
+      },
+      {
+        "category": "Fishing gear",
+        "level": "blue",
+        "members": [
+          "LINE",
+          "ROD",
+          "REEL",
+          "BAIT"
+        ]
+      },
+      {
+        "category": "Dances",
+        "level": "purple",
+        "members": [
+          "JIG",
+          "TAP",
+          "SWING",
+          "WALTZ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hard-2",
+    "difficulty": "hard",
+    "title": "Dealt a hand",
+    "max_mistakes": 4,
+    "board": [
+      "SAW",
+      "BELLOWS",
+      "ZIPPER",
+      "COMB",
+      "GEAR",
+      "DASH",
+      "BRIDGE",
+      "SURF",
+      "CARD",
+      "TONGS",
+      "GRATE",
+      "RUMMY",
+      "POKER",
+      "HEARTS",
+      "SHOVEL",
+      "KEY"
+    ],
+    "groups": [
+      {
+        "category": "Card games",
+        "level": "yellow",
+        "members": [
+          "POKER",
+          "BRIDGE",
+          "HEARTS",
+          "RUMMY"
+        ]
+      },
+      {
+        "category": "Fireplace tools",
+        "level": "green",
+        "members": [
+          "TONGS",
+          "GRATE",
+          "BELLOWS",
+          "SHOVEL"
+        ]
+      },
+      {
+        "category": "___ + BOARD",
+        "level": "blue",
+        "members": [
+          "KEY",
+          "CARD",
+          "SURF",
+          "DASH"
+        ]
+      },
+      {
+        "category": "Things with teeth",
+        "level": "purple",
+        "members": [
+          "COMB",
+          "SAW",
+          "ZIPPER",
+          "GEAR"
+        ]
+      }
+    ]
+  }
+]

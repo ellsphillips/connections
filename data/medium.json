@@ -1,0 +1,134 @@
+[
+  {
+    "id": "medium-1",
+    "difficulty": "medium",
+    "title": "Suits you",
+    "max_mistakes": 4,
+    "board": [
+      "LEMON",
+      "SCARLET",
+      "TEAL",
+      "SCENE",
+      "ORANGE",
+      "SPADE",
+      "TAKE",
+      "INDIGO",
+      "CUT",
+      "GRAPEFRUIT",
+      "CLUB",
+      "SHOT",
+      "DIAMOND",
+      "HEART",
+      "LIME",
+      "MAROON"
+    ],
+    "groups": [
+      {
+        "category": "Citrus fruits",
+        "level": "yellow",
+        "members": [
+          "LEMON",
+          "LIME",
+          "ORANGE",
+          "GRAPEFRUIT"
+        ]
+      },
+      {
+        "category": "Shades of colour",
+        "level": "green",
+        "members": [
+          "SCARLET",
+          "INDIGO",
+          "TEAL",
+          "MAROON"
+        ]
+      },
+      {
+        "category": "Film set terms",
+        "level": "blue",
+        "members": [
+          "SCENE",
+          "TAKE",
+          "CUT",
+          "SHOT"
+        ]
+      },
+      {
+        "category": "Card suits",
+        "level": "purple",
+        "members": [
+          "SPADE",
+          "CLUB",
+          "HEART",
+          "DIAMOND"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "medium-2",
+    "difficulty": "medium",
+    "title": "Compound trouble",
+    "max_mistakes": 4,
+    "board": [
+      "ROYAL",
+      "FIRE",
+      "CHAIR",
+      "KING",
+      "AZURE",
+      "SNOW",
+      "NAVY",
+      "HAIL",
+      "FROST",
+      "BISHOP",
+      "COBALT",
+      "ROOK",
+      "SLEET",
+      "MAIL",
+      "QUEEN",
+      "SPIDER"
+    ],
+    "groups": [
+      {
+        "category": "Precipitation",
+        "level": "yellow",
+        "members": [
+          "SLEET",
+          "FROST",
+          "HAIL",
+          "SNOW"
+        ]
+      },
+      {
+        "category": "___ + MAN",
+        "level": "green",
+        "members": [
+          "SPIDER",
+          "FIRE",
+          "CHAIR",
+          "MAIL"
+        ]
+      },
+      {
+        "category": "Chess pieces",
+        "level": "blue",
+        "members": [
+          "KING",
+          "QUEEN",
+          "ROOK",
+          "BISHOP"
+        ]
+      },
+      {
+        "category": "Shades of blue",
+        "level": "purple",
+        "members": [
+          "NAVY",
+          "COBALT",
+          "AZURE",
+          "ROYAL"
+        ]
+      }
+    ]
+  }
+]

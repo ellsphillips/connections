@@ -1,0 +1,134 @@
+[
+  {
+    "id": "cryptic-1",
+    "difficulty": "cryptic",
+    "title": "Sounds about right",
+    "max_mistakes": 4,
+    "board": [
+      "LIVED",
+      "SEA",
+      "JAY",
+      "ATE",
+      "GULP",
+      "FORE",
+      "SHINDIG",
+      "TOO",
+      "WON",
+      "STRAW",
+      "BEE",
+      "STRESSED",
+      "BEARD",
+      "WHIP",
+      "QUEUE",
+      "CHARM"
+    ],
+    "groups": [
+      {
+        "category": "Sound like letters",
+        "level": "yellow",
+        "members": [
+          "BEE",
+          "SEA",
+          "JAY",
+          "QUEUE"
+        ]
+      },
+      {
+        "category": "Sound like numbers",
+        "level": "green",
+        "members": [
+          "WON",
+          "ATE",
+          "FORE",
+          "TOO"
+        ]
+      },
+      {
+        "category": "Hide a body part",
+        "level": "blue",
+        "members": [
+          "CHARM",
+          "WHIP",
+          "SHINDIG",
+          "BEARD"
+        ]
+      },
+      {
+        "category": "Reverse into another word",
+        "level": "purple",
+        "members": [
+          "STRESSED",
+          "LIVED",
+          "STRAW",
+          "GULP"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cryptic-2",
+    "difficulty": "cryptic",
+    "title": "Hidden depths",
+    "max_mistakes": 4,
+    "board": [
+      "SCATTER",
+      "LEVEL",
+      "CRATE",
+      "CIVIC",
+      "WASTE",
+      "KNIFE",
+      "GNOME",
+      "WRENCH",
+      "HARE",
+      "COWARD",
+      "RADAR",
+      "HOWL",
+      "KAYAK",
+      "MUSSEL",
+      "NAVAL",
+      "HONEST"
+    ],
+    "groups": [
+      {
+        "category": "Hide an animal",
+        "level": "yellow",
+        "members": [
+          "COWARD",
+          "CRATE",
+          "SCATTER",
+          "HOWL"
+        ]
+      },
+      {
+        "category": "Palindromes",
+        "level": "green",
+        "members": [
+          "LEVEL",
+          "KAYAK",
+          "CIVIC",
+          "RADAR"
+        ]
+      },
+      {
+        "category": "Silent first letter",
+        "level": "blue",
+        "members": [
+          "GNOME",
+          "KNIFE",
+          "WRENCH",
+          "HONEST"
+        ]
+      },
+      {
+        "category": "Homophones of body parts",
+        "level": "purple",
+        "members": [
+          "MUSSEL",
+          "HARE",
+          "WASTE",
+          "NAVAL"
+        ]
+      }
+    ]
+  }
+]
